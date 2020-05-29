@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208945057446",
+    "firebase_url": "https://shamatagirls-a65ce.firebaseio.com",
+    "project_id": "shamatagirls-a65ce",
+    "storage_bucket": "shamatagirls-a65ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208945057446:android:9204222b1134d8f6f0ae67",
+        "android_client_info": {
+          "package_name": "com.example.shamatagirls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208945057446-563v65pqphouib5e6g6at7s48kacf5gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPdOou_JlvsCCuq67t3Kmu8diglw2FYdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208945057446-563v65pqphouib5e6g6at7s48kacf5gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
